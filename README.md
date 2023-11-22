@@ -12,9 +12,5 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# shopping-list-mobile
->>>>>>> origin/main
+Link build badge dengan format Markdown
+[![Build status](https://build.appcenter.ms/v0.1/apps/0f0e974e-7f23-488c-bbf1-dde1b6e3262e/branches/main/badge)](https://appcenter.ms)
